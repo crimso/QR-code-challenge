@@ -9,8 +9,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: var(--light-gray);
     font-family: 'Outfit', sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+    color: var(--dark-blue);
+    background-color: var(--white);
 }
 
 img {
@@ -51,11 +56,6 @@ body {
     font-weight: 400;
 }
 
-h1 {
-    font-size: 20px;
-    color: var(--dark-blue);
-    background-color: var(--white);
-}
 
 .attribution {
     font-size: 15px;
